@@ -11,6 +11,7 @@ public class Employee {
 
    private String myName;
    private double mySalary;
+   private int edat;
 
    public Employee(String name, double salary) {
       myName = name;
